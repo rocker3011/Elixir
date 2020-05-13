@@ -1,1 +1,0 @@
-searchNodes=[{"doc":"","ref":"HelloWorld.html","title":"HelloWorld","type":"module"},{"doc":"","ref":"HelloWorld.html#hello/0","title":"HelloWorld.hello/0","type":"function"}]
