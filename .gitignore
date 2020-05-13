@@ -48,4 +48,3 @@ _testmain.go
 *.prof
 .elixir_ls
 launch.json
-.vscode
