@@ -1,6 +1,6 @@
 # BlockfiExercise
 
-**TODO: Add description**
+ Exercise for BlockFi, a Producer-Consumer model to upload images with a limited bandwith
 
 ## Installation
 
